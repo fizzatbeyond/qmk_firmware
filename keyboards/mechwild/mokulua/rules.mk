@@ -1,1 +1,1 @@
-DEFAULT_FOLDER = mechwild/mokulua/standard
+DEFAULT_FOLDER = mechwild/mokulua/mirrored
