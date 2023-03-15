@@ -3,8 +3,8 @@
 
 #include QMK_KEYBOARD_H
 
-#define FN1_SPC     LT(1, KC_SPC)
-#define FN2_SPC     LT(2, KC_SPC)
+//#define FN1_SPC     LT(1, KC_SPC)
+//#define FN2_SPC     LT(2, KC_SPC)
 
 // Defines names for use in layer keycodes and the keymap
 enum layer_names {
